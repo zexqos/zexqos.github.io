@@ -1,0 +1,8 @@
+.rubber{
+display: inline-block;
+vertical-align: middle;
+width: 45%;
+height: 300px;
+background-color: blue;
+margin: 20px;
+}
